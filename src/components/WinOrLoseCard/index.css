@@ -1,0 +1,43 @@
+.win-container {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  padding: 20px;
+  background-color: #ffffff33;
+  border-radius: 15px;
+}
+
+.content-container{
+  text-align: center;
+}
+
+.win-heading {
+  font-size: 45px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.best-score {
+  font-size: 35px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.score {
+  color: #6a59ff;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.paly-again-button {
+  background-color: #ffce27;
+  border-radius: 10px;
+  padding: 10px;
+  border-style: none;
+}
+.image-container {
+  align-self: flex-end;
+  width: 60%;
+}

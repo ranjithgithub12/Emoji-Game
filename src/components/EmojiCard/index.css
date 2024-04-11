@@ -1,0 +1,17 @@
+.list-of-emoji {
+  list-style-type: none;
+  margin: 20px;
+}
+
+.button-image {
+  min-height: 200px;
+  min-width: 200px;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid #ffffff30;
+  background-color: #ffffff33;
+}
+.emoji-image {
+  width: 60%;
+}

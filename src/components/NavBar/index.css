@@ -1,0 +1,31 @@
+.nav-container {
+  background-color: #9796f0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+
+.logo-contianer {
+  display: flex;
+  width: 50%;
+  align-self: flex-start;
+  justify-content: flex-start;
+}
+
+.score-container {
+  display: flex;
+}
+
+.game-name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.score-discription {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-right: 30px;
+}
